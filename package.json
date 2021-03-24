@@ -1,6 +1,6 @@
 {
   "name": "@mongone/encodeuri",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "encode and decode mongone search uri",
   "author": "aimleo",
   "license": "MIT",
@@ -71,5 +71,13 @@
       "pre-commit": "pretty-quick --staged",
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aim-leo/mongone-encodeuri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aim-leo/mongone-encodeuri/issues"
+  },
+  "homepage": "https://github.com/aim-leo/mongone-encodeuri#readme"
 }

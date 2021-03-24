@@ -1,7 +1,7 @@
-const { searchInterface } = require('./interface')
+const interface = require('./interface')
 
 function encode(option) {
-  searchInterface.assert(option)
+  interface.searchInterface.assert(option)
 
   const url = new URLSearchParams()
 
@@ -17,6 +17,7 @@ function decode(uri) {
 }
 
 module.exports = {
+  ...interface,
   encode,
   decode
 }

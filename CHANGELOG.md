@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/aim-leo/mongone-encodeuri/compare/v1.2.0...v1.3.0) (2021-03-25)
+
+
+### Features
+
+* rewrite encode & decode ([57aceb1](https://github.com/aim-leo/mongone-encodeuri/commit/57aceb10c5161266974c2c4a2355acfc4617aee1))
+
 ## [1.2.0](https://github.com/aim-leo/mongone-encodeuri/compare/v1.1.0...v1.2.0) (2021-03-24)
 
 
